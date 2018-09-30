@@ -4,7 +4,7 @@
 `TODO://` A phone simulator that has met all the basic requirements
 
 ### App Walk-though
-`TODO://` <img src="https://i.imgur.com/jzflTUM.gifv" width=200><br>
+`TODO://` <img src="https://i.imgur.com/jzflTUM.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
