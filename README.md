@@ -1,10 +1,10 @@
 ## android_studio
 
 ### App Description
-`TODO://` A phone simulator that has met all the basic requirements
+A phone simulator that has met all the basic requirements
 
 ### App Walk-though
- <img src="https://i.imgur.com/jzflTUM.gif" width=200><br>
+<img src="https://i.imgur.com/jzflTUM.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
